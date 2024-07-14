@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **Website Backend**
 
-- 👨‍💻 All of my projects are available at [https://iamyuvrajbagga.web.app/](https://iamyuvrajbagga.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://iamyuvrajbagga.web.app/)
 
 - 💬 Ask me about **python, Flask, Django, JS**
 
 - 📫 How to reach me **iyuvrajbagga@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gtM0R0aw9zDCedrDyEgX75Pti3O4bBg-/view?usp=sharing](https://drive.google.com/file/d/1gtM0R0aw9zDCedrDyEgX75Pti3O4bBg-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gtM0R0aw9zDCedrDyEgX75Pti3O4bBg-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
