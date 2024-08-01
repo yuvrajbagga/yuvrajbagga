@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **iyuvrajbagga@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gtM0R0aw9zDCedrDyEgX75Pti3O4bBg-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
